@@ -31,7 +31,7 @@ public class VendorDetails {
 
 	private String vendorLocation;
 
-	private VendorDetails vendorID;
+//	private VendorDetails vendorID;
 	
 	private Date createDate;
 	
